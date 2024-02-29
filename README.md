@@ -11,3 +11,6 @@ Design Pattern using Python
 
 ### Liskov Substitution Principle
 #### Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application.
+
+### Interface Segregation Principle
+#### Rather than having one lareg interface, make it granular .
