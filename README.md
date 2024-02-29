@@ -5,3 +5,6 @@ Design Pattern using Python
 ## SOLID Principles
 ### Single Responsibilty Principle
 #### Don't overload one object with too many responsibilty. One class has one responsibilty.
+
+### Open Closed Principle
+#### Open for extension, Closed for modification
