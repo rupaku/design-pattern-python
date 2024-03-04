@@ -20,3 +20,7 @@ Design Pattern using Python
 
 - ## Summary SOLID Principle
 ![image](https://github.com/rupaku/design-pattern-python/assets/40722800/a14381f5-f2e1-4c97-b35c-f16a307f10cb)
+
+- ## Builder Pattern
+  #### Invoke multiple methods on the same object which is as single statement.
+  #### “Separate the construction of a complex object from its representation so that the same construction process can create different representations
