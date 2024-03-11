@@ -24,3 +24,4 @@ Design Pattern using Python
 - ## Builder Pattern
   #### Invoke multiple methods on the same object which is as single statement.
   #### “Separate the construction of a complex object from its representation so that the same construction process can create different representations
+  #### https://refactoring.guru/design-patterns/builder/python/example
